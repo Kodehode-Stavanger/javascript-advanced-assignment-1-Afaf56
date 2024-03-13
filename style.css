@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(222, 223, 233);
+  border: 2px solid blue;
+}
+
+#div1 {
+  position: relative;
+  height: 100vh;
+}
+#btn {
+  position: absolute;
+  padding: 15px 25px;
+  border-radius: 25px;
+  background-color: rgb(234, 107, 107);
+  box-shadow: 2px 3px 5px;
+}
